@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534623419746",
+    "project_id": "gestortareasapp-ef160",
+    "storage_bucket": "gestortareasapp-ef160.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534623419746:android:1304aa966869704734003b",
+        "android_client_info": {
+          "package_name": "com.example.gestortareasapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB09owAEdj5pvDniAGYZGTXZ-eVJHMT-0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
